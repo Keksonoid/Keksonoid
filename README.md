@@ -9,10 +9,7 @@
 
 <p>
   <a href="https://github.com/Keksonoid?tab=followers">
-    <img src="https://img.shields.io/github/followers/Keksonoid?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/Keksonoid">
-    <img src="https://komarev.com/ghpvc/?username=Keksonoid&style=for-the-badge&color=1f6feb" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Keksonoid?style=for-the-badge&logo=github&label=Followers&color=1f6feb" alt="GitHub followers" />
   </a>
   <a href="https://www.linkedin.com/in/keksonoid/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -44,22 +41,6 @@
 <div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keksonoid&theme=github_dark" alt="GitHub stats summary card" />
   <img height="170" src="https://streak-stats.demolab.com?user=Keksonoid&theme=transparent&hide_border=true" alt="GitHub streak stats" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Keksonoid&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keksonoid&theme=github_dark" alt="Top languages by repository card" />
-</div>
-
-## Contribution Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/1f6feb/Keksonoid" alt="Keksonoid GitHub contribution heatmap" />
-</div>
-
-## Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/keksonoid/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://t.me/scorpionid">Telegram</a>
-</div>
