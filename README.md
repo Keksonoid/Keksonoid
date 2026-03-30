@@ -24,11 +24,6 @@
 
 </div>
 
-## About
-
-- Building frontend experiences with a focus on clarity, performance, and scalable UI architecture.
-- Interested in React ecosystems, robust state management, modern tooling, and polished product UX.
-- Using GitHub as a place for experiments, learning, shipping, and steady contribution.
 
 ## Tech Stack
 
@@ -47,18 +42,18 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Keksonoid&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keksonoid&theme=github_dark" alt="GitHub stats summary card" />
   <img height="170" src="https://streak-stats.demolab.com?user=Keksonoid&theme=transparent&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keksonoid&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keksonoid&theme=github_dark" alt="Top languages by repository card" />
 </div>
 
-## Contribution Activity
+## Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keksonoid&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://ghchart.rshah.org/1f6feb/Keksonoid" alt="Keksonoid GitHub contribution heatmap" />
 </div>
 
 ## Connect
