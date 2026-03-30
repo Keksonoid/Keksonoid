@@ -41,6 +41,6 @@
 <div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keksonoid&theme=github_dark" alt="GitHub stats summary card" />
   <img height="170" src="https://streak-stats.demolab.com?user=Keksonoid&theme=transparent&hide_border=true" alt="GitHub streak stats" />
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Keksonoid&theme=github_dark&hide_border=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Keksonoid&theme=transparent&hide_border=true&langs_count=7"/>
 </div>
 
